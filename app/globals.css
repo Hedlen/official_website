@@ -24,3 +24,6 @@
 .partner-logo:nth-child(3n) i,.partner-chip:nth-child(3n) i{background:#173f42}
 @media(max-width:900px){.partner-group .partner-wall{grid-template-columns:repeat(3,1fr)}}
 @media(max-width:700px){.partner-group .partner-wall{grid-template-columns:1fr 1fr}.partner-logo{display:grid;justify-items:center;text-align:center;gap:9px;min-height:112px}.partner-preview>div{display:grid;grid-template-columns:1fr 1fr}.partner-chip{min-width:0}.partner-chip b{overflow:hidden;text-overflow:ellipsis}}
+
+/* Reliable contact interactions */
+#contact-details{scroll-margin-top:24px}.contact-info .contact-email{align-items:center}.contact-email span{display:block}.contact-email small{margin-top:4px;font-weight:400}.contact-directions .contact-direction{display:flex;justify-content:space-between;align-items:center;border-top:1px solid #c4cec9;padding:23px 5px}.contact-directions .contact-direction:last-child{border-bottom:1px solid #c4cec9}.contact-direction p{margin:6px 0 0;font-size:.82rem;color:#657771}
