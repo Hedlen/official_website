@@ -19,6 +19,23 @@ export const metrics = [
   { value: "多方协同", label: "政产学研合作", note: "具备政府、高校、园区、社区及企业合作经验" },
 ];
 
+export const ecosystemPartners = [
+  { name: "火山引擎", mark: "火", category: "AI 企业与技术平台" },
+  { name: "AWS", mark: "AWS", category: "AI 企业与技术平台" },
+  { name: "Workbuddy", mark: "WB", category: "AI 企业与技术平台" },
+  { name: "字节跳动", mark: "字节", category: "AI 企业与技术平台" },
+  { name: "智谱 AI", mark: "ZP", category: "AI 企业与技术平台" },
+  { name: "阶跃星辰", mark: "STEP", category: "AI 企业与技术平台" },
+  { name: "月之暗面", mark: "KIMI", category: "AI 企业与技术平台" },
+  { name: "MiniMax", mark: "MM", category: "AI 企业与技术平台" },
+  { name: "商汤科技", mark: "ST", category: "AI 企业与技术平台" },
+  { name: "旷视科技", mark: "MEG", category: "AI 企业与技术平台" },
+  { name: "TGO", mark: "TGO", category: "开发者与产业社区" },
+  { name: "WaytoAGI", mark: "WAI", category: "开发者与产业社区" },
+  { name: "Linkloud", mark: "LI", category: "开发者与产业社区" },
+  { name: "ClawHunt", mark: "CH", category: "开发者与产业社区" },
+  { name: "OneOPC", mark: "OPC", category: "开发者与产业社区" },
+];
 export const collaborations = [
   ["AI 项目合作", "让技术方案进入真实场景，共同完成从验证到交付。"],
   ["企业 AI 培训", "为团队定制课程，让 AI 能力真正进入日常业务。"],
