@@ -11,7 +11,7 @@ export const services = [
 ];
 
 export const metrics = [
-  { value: "200万+", label: "开发者及产业资源", note: "覆盖技术人才、企业决策者与产业协同伙伴" },
+  { value: "1000万+", label: "开发者及产业资源", note: "链接技术人才、企业决策者与产业协同伙伴" },
   { value: "200万+", label: "私域社群资源", note: "连接多层次 AI 与科技行业社群网络" },
   { value: "100+", label: "AI 行业活动", note: "持续组织技术交流、产业论坛与生态活动" },
   { value: "10万+", label: "累计参会人次", note: "形成线上线下深度互动与合作触点" },
